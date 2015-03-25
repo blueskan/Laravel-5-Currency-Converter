@@ -1,9 +1,8 @@
-# (GitHub-Flavored) Markdown Editor
-
 # Laravel-5-Currency-Converter
 Small Api for currency converting jobs in Laravel 5
 
-# Installation
+Installation
+-------------
 - Going your project directory on shell and run this command: 
 
 ```php
