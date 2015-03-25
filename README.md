@@ -25,8 +25,6 @@ composer require "senemoglu/currency"
 
 On Business Side:
 -----------------
-Only use Currency::convert(FROM, TO, AMOUNT = 1) 
-
 **Example**
 
 ```php
@@ -35,8 +33,6 @@ Currency::convert('USD', 'TRY', 20);
 
 On Presentation Side:
 --------------------
-Only use @currency(FROM => TO, AMOUNT) 
-
 **Example** 
 
 ```php
