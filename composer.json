@@ -1,0 +1,20 @@
+{
+    "name": "senemoglu/currency",
+    "minimum-stability": "dev",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Batikan Senemoglu",
+            "email": "batikansenemoglu@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Senemoglu\\Currency\\": "src"
+        }
+    },
+    "require": {
+        "php": ">=5.3.0",
+        "illuminate/support": "5.x"
+    }
+}
