@@ -42,3 +42,5 @@ Only use @currency(FROM => TO, AMOUNT)
 ```php
 @currency(USD => TRY, 20)
 ```
+
+*I don't do any unit testing yet, but i will if you have any advice i'm open for it.*
