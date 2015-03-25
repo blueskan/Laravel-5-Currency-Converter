@@ -39,4 +39,4 @@ On Presentation Side:
 @currency(USD => TRY, 20)
 ```
 
-*I don't do any unit testing yet, but i will if you have any advice i'm open for it.*
+*I have been working about this since 3 hours. Any advice you give, im open.*
