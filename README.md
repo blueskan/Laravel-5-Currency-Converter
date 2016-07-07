@@ -6,19 +6,19 @@ Installation
 - Going your project directory on shell and run this command: 
 
 ```php
-composer require "senemoglu/currency"
+composer require senemoglu/currency:dev-master
 ```
 
 - Add this line in your service provider's array (config/app.php) => 
  
 ```php
-'Currency' => 'Senemoglu\Currency\CurrencyServiceProvider'
+Senemoglu\Currency\CurrencyServiceProvider::class,
 ```
 
 - Add this line in your aliases => 
  
 ```php
-'Currency' => 'Senemoglu\Currency\Facades\Converter'
+'Currency' => Senemoglu\Currency\Facades\Converter::class,
 ```
 
 # Usage
